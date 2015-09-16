@@ -1,5 +1,5 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:22:25.554511
+#+DATE: 2015-08-30 21:22:25.514058
 #+TITLE: 祖堂集
 #+PROPERTY: ID ZTJ
 #+PROPERTY: SOURCE 中支出版社
