@@ -780,7 +780,8 @@
 #+BEGIN_VERSE
 　不取不捨，
 　傳乎子孫。
-#+END_VERSE¶
+#+END_VERSE
+¶
 祖堂集卷第一¶乙巳歲分司大藏都監彫造
 <pb:KR6q0002_Yan_001-1050a>
 <pb:KR6q0002_Yan_001-1051a>
